@@ -1,0 +1,82 @@
+.Encabezado{
+    top: 0%;
+    margin-left: 15%;
+    position:absolute;
+    
+}
+
+body{
+    font-family: Helvetica, sans-serif;
+}
+
+
+.Imagen1{
+    height: 100px;
+    width: 100px;
+    margin-top:auto;
+    
+}
+
+.Foto{
+    padding: 100px; 
+    margin: 5px; 
+     float:right;
+}
+
+
+.contenedor{
+    position:absolute;
+    top: 30%;
+    margin-left: 10%; 
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+.Logos i{
+    margin-left: 10px;
+}
+
+
+.boton{
+    background-image: linear-gradient(135deg, #2b4eeb 0%, #7c2bce 100%);
+    text-decoration: none;
+    font-weight: 16px;
+    font-size: 16px;
+    padding-top: 9px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 20px;
+    height: 9px;
+    width: 125px;
+    border-color: #d8d8d800;
+    border-radius: 5px;
+    border-radius: 5px;
+    
+    
+}
+
+nav a{
+    color: black;
+    font-weight: 250;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+a{
+    color: white;
+}
+
+.hobbies{
+    font-family: Helvetica, sans-serif;
+    margin-left: 5px;
+
+    
+} 
+
+nav li{
+    display: inline-flex;
+}
+
